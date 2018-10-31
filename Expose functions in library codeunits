@@ -1,0 +1,10 @@
+Hi,
+
+We would need to use the following functions when creating a unit test codeunit in AL:
+
+CreateStandardTextWithExtendedText and CreateCustomer in "Library - Sales"
+Enqueue in "Library - Variable Storage"
+CreateCBGStatement and CreateCBGStatementLine in "Library - NL Localization"
+Please make them external, so we can use them in AL.
+
+Thank you!
